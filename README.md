@@ -1,4 +1,4 @@
-## Gits from Anand
+## Gits - Anand
 This Repository will list all my work like Programs, Projects, Self interests & related Write-ups, which can be downloaded and used by anyone.
 
 ### Skills
