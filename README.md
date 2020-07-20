@@ -1,7 +1,7 @@
 ## Gits from Anand
 This Repository will list all my work like Programs, Projects, Self interests & related Write-ups, which can be downloaded and used by anyone.
 
-### Core Skills
+### Skills
 ```shell
 Programming - C++, Python, Go, Rust, JavaScript
 OS and Cloud - Linux System Programming, Containers (Docker & LxD), Kubernetes, KVM
@@ -10,7 +10,7 @@ Open Source - OpenSAF, OpenHPI, HybridStore and HybridPipe
 Web Design - WebFlow, AdobeXD
 ```
 
-### Current Learnings
+### Learnings
 ```shell
 Mobile - iOS and Swift, Flutter and Dart
 Web Development - HTML, CSS, BootStrap, JS, JS Frameworks, MongoDB, NodeJS/DenoJS
