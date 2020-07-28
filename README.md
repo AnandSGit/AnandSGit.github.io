@@ -29,8 +29,8 @@ Tamil
 
 ### Programs / Projects / Interests / Write-ups
 1. [Data structure and Algorithms](https://anandsgit.github.io/ProgrammingBasics.github.io/)
-2. [Hybridpipe](https://anandsgit.github.io/hybridpipe.github.io/)
-3. [HybridStore](https://anandsgit.github.io/hybridstore.github.io/)
+2. [Hybridpipe](https://anandsgit.github.io/hybridpipe.io/)
+3. [HybridStore](https://anandsgit.github.io/hybridstore.io/)
 
 #### Author/Contact
 Anand.S.Main@gmail.com
